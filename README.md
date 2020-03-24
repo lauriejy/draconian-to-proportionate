@@ -1,38 +1,31 @@
-cloud-to-butt
+draconian to proportionate 
 =============
 
-![](logo.png)
+To combat the absolute media hysteria over the entirely proportionate national responses to the COVID-19 pandemic, here is a handy Chrome extension that replaces all occurrences of 'draconian' with 'proportionate'.
 
-Chrome extension that replaces occurrences of 'the cloud' with 'my butt'
+[Direct download of crx file](https://github.com/lauriejy/draconian-to-proportionate/blob/master/CloudToButt.crx?raw=true)
 
-[Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
+Some recent usage examples:
 
-Note that there are forks of this extension that simply replace 'cloud' with 'butt'.
-In my personal opinion, that approach is too broad and it's less funny as a result, but it is clearly a very
-polarizing issue in the cloud-to-butt user community.  Forks are free to do whatever they like.  But officially, _this_ extension replaces only the phrase described above, and therefore it did not replace your cloudflare URLs with buttflare URLs. Thank you for your concern.
+_Before_
+![alt text](before.png "Coronavirus latest: Boris Johnson braces Britain for draconian new lockdown restrictions")
 
-Screenshot Gallery
-------------------
+_After_
+![alt text](after.png "Coronavirus latest: Boris Johnson braces Britain for proportionate new lockdown restrictions")
+[Source](https://inews.co.uk/news/coronavirus-latest-boris-johnson-braces-britain-for-draconian-new-lockdown-restrictions-2505058)
 
-http://www.flickr.com/groups/cloud-to-butt/
+_Before_
+![alt text](before2.png "Donald Trump predicts draconian coronavirus lockdown won’t end until August")
+
+_After_
+![alt text](after2.png "Donald Trump predicts proportionate coronavirus lockdown won’t end until August")
+[Source](https://metro.co.uk/2020/03/16/donald-trump-predicts-draconian-coronavirus-lockdown-wont-end-august-12407804/)
+
+Stay safe everyone.
+
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public
 
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
-
-Safari Version
---------------
-
-Can be found here: https://github.com/logancollins/cloud-to-butt-safari
-
-Firefox Version
----------------
-
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-mozilla
-
-
-Opera Version
----------------
-
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-opera
+In Chrome, choose Window > Extensions.  Drag DraconianToProportionate.crx into the page that appears.
